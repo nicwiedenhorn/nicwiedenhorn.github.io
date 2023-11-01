@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Nic's Blog about service holds in tennis",
+    "section": "",
+    "text": "---\ntitle: \"ATP serving percentage\"\nauthor: \"Nic Wiedenhorn\"\ndate: '2023-10-30'\ncategories: [lowercaseword, lowercaseword, lowercaseword]\nimage: \"image.png\"\nformat: \n  html:\n    code-fold: true\n---"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nic’s Blog",
+    "section": "",
+    "text": ":::{#quarto-listing-pipeline .hidden} \\(e = mC^2\\)\n:::{.hidden render-id=“pipeline-listing-listing”}\n:::{.list .quarto-listing-default}\n\n\n  \n\n\n\n\n``&lt;/h3&gt; &lt;div class=\"listing-subtitle\"&gt;&lt;/div&gt; &lt;div class=\"delink listing-description\"&gt; &lt;!-- desc(5A0113B34292)[max=175]:posts/index.html --&gt; &lt;/div&gt; &lt;/a&gt;&lt;/div&gt; &lt;div class=\"metadata\"&gt;&lt;a href=\"/posts/index.qmd\"&gt; &lt;/a&gt;&lt;/div&gt; &lt;/div&gt; &lt;div class=\"quarto-post image-right\" data-index='1' data-categories='news,code,analysis' data-listing-date-sort='1698642000000' data-listing-file-modified-sort='1698725091769' data-listing-date-modified-sort='NaN' data-listing-reading-time-sort='1'&gt; &lt;div class=\"thumbnail\"&gt; &lt;a href=\"/posts/post-with-code/index.qmd\"&gt; &lt;img src=\"/posts/post-with-code/image.jpg\" class=\"thumbnail-image\"  &gt; &lt;/a&gt; &lt;/div&gt; &lt;div class=\"body\"&gt;&lt;a href=\"/posts/post-with-code/index.qmd\"&gt; &lt;h3 class=\"no-anchor listing-title\"&gt;Post With Code&lt;/h3&gt; &lt;div class=\"listing-subtitle\"&gt;&lt;/div&gt; &lt;/a&gt; &lt;div class=\"listing-categories\"&gt; &lt;div class=\"listing-category\" onclick=\"window.quartoListingCategory('news'); return false;\"&gt;news&lt;/div&gt; &lt;div class=\"listing-category\" onclick=\"window.quartoListingCategory('code'); return false;\"&gt;code&lt;/div&gt; &lt;div class=\"listing-category\" onclick=\"window.quartoListingCategory('analysis'); return false;\"&gt;analysis&lt;/div&gt; &lt;/div&gt; &lt;a href=\"/posts/post-with-code/index.qmd\"&gt; &lt;div class=\"delink listing-description\"&gt; &lt;!-- desc(5A0113B34292)[max=175]:posts/post-with-code/index.html --&gt; &lt;/div&gt; &lt;/a&gt;&lt;/div&gt; &lt;div class=\"metadata\"&gt;&lt;a href=\"/posts/post-with-code/index.qmd\"&gt; &lt;div class=\"listing-date\"&gt;Oct 30, 2023{=html}&lt;/div&gt; &lt;div class=\"listing-author\"&gt;Harlow Malloc&lt;/div&gt; &lt;/a&gt;&lt;/div&gt; &lt;/div&gt; &lt;div class=\"quarto-post image-right\" data-index='2' data-categories='news' data-listing-date-sort='1698382800000' data-listing-file-modified-sort='1698725091764' data-listing-date-modified-sort='NaN' data-listing-reading-time-sort='1'&gt; &lt;div class=\"thumbnail\"&gt; &lt;a href=\"/posts/welcome/index.qmd\"&gt; &lt;!-- img(9CEB782EFEE6)[progressive=false, height=]:posts/welcome/index.html --&gt; &lt;/a&gt; &lt;/div&gt; &lt;div class=\"body\"&gt;&lt;a href=\"/posts/welcome/index.qmd\"&gt; &lt;h3 class=\"no-anchor listing-title\"&gt;Welcome To My Blog&lt;/h3&gt; &lt;div class=\"listing-subtitle\"&gt;&lt;/div&gt; &lt;/a&gt; &lt;div class=\"listing-categories\"&gt; &lt;div class=\"listing-category\" onclick=\"window.quartoListingCategory('news'); return false;\"&gt;news&lt;/div&gt; &lt;/div&gt; &lt;a href=\"/posts/welcome/index.qmd\"&gt; &lt;div class=\"delink listing-description\"&gt; &lt;!-- desc(5A0113B34292)[max=175]:posts/welcome/index.html --&gt; &lt;/div&gt; &lt;/a&gt;&lt;/div&gt; &lt;div class=\"metadata\"&gt;&lt;a href=\"/posts/welcome/index.qmd\"&gt; &lt;div class=\"listing-date\"&gt;Oct 27, 2023`{=html}\n\n\nTristan O’Malley"
+  }
+]
